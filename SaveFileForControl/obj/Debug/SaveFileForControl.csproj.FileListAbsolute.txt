@@ -1,0 +1,7 @@
+D:\C#成熟项目\我的第一个github项目\SaveFileForControl\SaveFileForControl\bin\Debug\SaveFileForControl.exe.config
+D:\C#成熟项目\我的第一个github项目\SaveFileForControl\SaveFileForControl\bin\Debug\SaveFileForControl.exe
+D:\C#成熟项目\我的第一个github项目\SaveFileForControl\SaveFileForControl\bin\Debug\SaveFileForControl.pdb
+D:\C#成熟项目\我的第一个github项目\SaveFileForControl\SaveFileForControl\obj\Debug\SaveFileForControl.csproj.AssemblyReference.cache
+D:\C#成熟项目\我的第一个github项目\SaveFileForControl\SaveFileForControl\obj\Debug\SaveFileForControl.csproj.CoreCompileInputs.cache
+D:\C#成熟项目\我的第一个github项目\SaveFileForControl\SaveFileForControl\obj\Debug\SaveFileForControl.exe
+D:\C#成熟项目\我的第一个github项目\SaveFileForControl\SaveFileForControl\obj\Debug\SaveFileForControl.pdb
